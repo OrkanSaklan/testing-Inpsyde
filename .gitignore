@@ -10,6 +10,8 @@ wp-content/mu-plugins/
 wp-content/wp-cache-config.php
 wp-content/plugins/hello.php
 
+wp-config.php
+../wp-config.php
 /wp-config.php
 /.htaccess
 /license.txt
